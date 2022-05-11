@@ -1,15 +1,10 @@
-import React, {Component} from 'react'
-import {render} from 'react-dom'
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './components/App/App.js';
 
-import Example from '../../src'
-
-export default class Demo extends Component {
-  render() {
-    return <div>
-      <h1>disparate-chart Demo</h1>
-      <Example/>
-    </div>
-  }
-}
-
-render(<Demo/>, document.querySelector('#demo'))
+ReactDOM.render(
+  <div>
+    <App />
+  </div>,
+  document.getElementById('demo')
+);
