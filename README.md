@@ -8,5 +8,5 @@ value differences. I hope you find dotChart useful!
 
 [View Demo](https://link-url-here.org)
 
-![Instructions](../../imgs/demo.png)
+![Instructions](/Users/mitchellbrandon/Desktop/portfolio/dotchart/demo/src/imgs/demo.png)
 
