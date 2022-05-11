@@ -3,6 +3,7 @@
 
 :root{
   --header: #474747;
+  --text: #1F1B1B;
 }
 body{
   padding: 0  1rem 2rem 1rem;
@@ -14,6 +15,9 @@ body{
 h1{
   color: var(--header);
   font-weight: 400;
+}
+p, li{
+  color: var(--text);
 }
 .list{
   width: fit-content;
@@ -27,7 +31,11 @@ h1{
   margin: 1rem auto;
 }
 
-
+.disclaimer{
+  text-align: right;
+  font-size: 11px;
+  color: #928D8D;
+}
 .main-title{
   font-size: 65px;
 }

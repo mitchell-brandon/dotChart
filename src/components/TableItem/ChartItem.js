@@ -9,7 +9,7 @@ function ChartItem(props) {
     }
     return(
         <div style={style}>
-            <p className={` table-item ${props.description}`}> {props.description}</p>
+            <p className={`table-item ${props.description}`}> --{props.description}</p>
             <p className={` table-item ${props.value}`}> {props.value}</p>
         </div>
     )

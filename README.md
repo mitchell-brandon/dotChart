@@ -1,16 +1,12 @@
-# disparate-chart
+<h1>**Welcome to dotChart**<h1>
 
-[![Travis][build-badge]][build]
-[![npm package][npm-badge]][npm]
-[![Coveralls][coveralls-badge]][coveralls]
+dotChart is a reusable React component that generates a custom dot chart.
+A dot chart is a simple graph that expresses disparate data values. 
+The utility of dotChart is in the ability to customize multiple number 
+ranges along the Y axis. This is extremely helpful when expressing gross 
+value differences. I hope you find dotChart useful!
 
-Describe disparate-chart here.
+[View Demo](https://link-url-here.org)
 
-[build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
-[build]: https://travis-ci.org/user/repo
+![Instructions](../../demo/src/imgs/demo.png)
 
-[npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
-[npm]: https://www.npmjs.org/package/npm-package
-
-[coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/user/repo

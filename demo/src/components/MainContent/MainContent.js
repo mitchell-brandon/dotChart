@@ -9,6 +9,13 @@ function MainContent (){
   return(
     <div id="MainContent">
       {/* ABOUT */}
+      <p className='disclaimer'> 
+        dotChart is a reusable React graphing component
+        <br></br>
+        by <a href="https://github.com/mitchell-brandon" >Mitchell Brandon</a>
+        <br></br>
+        **This code is licensed under MIT**
+      </p>
       <h1 className="main-title"> dotChart </h1>
       <p className='main-about'> 
         dotChart is a reusable React component that generates a custom dot chart.
@@ -66,7 +73,7 @@ function MainContent (){
       </div>
       <div className='underline'></div>
       {/* RESULT EXAMPLE DEMO */}
-      <h1> Result Example</h1>
+      <h1> Instructions Result </h1>
 
     </div>
   )
