@@ -5,7 +5,7 @@ A dot chart is a simple graph that expresses disparate data values.
 The utility of dotChart is in the ability to customize multiple number 
 ranges along the Y axis. This is extremely helpful when expressing gross 
 value differences. I hope you find dotChart useful!
-<img src="https://github.com/mitchell-brandon/dotChart/blob/master/demo/src/imgs/result.png">
+<img src="/Users/mitchellbrandon/Desktop/portfolio/dotchart/demo/src/imgs/result.png">
 
 <h2> Installation </h2>
 <p> In your terminal, npm install dotchart </p>
