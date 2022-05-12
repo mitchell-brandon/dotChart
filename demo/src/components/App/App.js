@@ -11,9 +11,9 @@ function App() {
     <div className="App">
       <MainContent/>
       <Chart range={[[4000, 6000, 500], [-100, 500, 100], [-300, -50, 50]]}>
-        <ChartItem description={"A"} value={5500} top={"6%"} left={"20%"}/>
-        <ChartItem description={"B"} value={255} top={"45%"} left={"30%"}/>
-        <ChartItem description={"C"} value={-155} top={"85%"} left={"50%"}/>
+        <ChartItem description={"Sun"} value={"5500c°"} top={"5.5%"} left={"20%"}/>
+        <ChartItem description={"Mercury"} value={"167c°"} top={"50%"} left={"30%"}/>
+        <ChartItem description={"Neptune"} value={"-225c°"} top={"93%"} left={"50%"}/>
       </Chart>
     </div>
   )
