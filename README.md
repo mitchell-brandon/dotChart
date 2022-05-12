@@ -12,5 +12,5 @@ value differences. I hope you find dotChart useful! </p>
 
 [View Demo](https://link-url-here.org)
 
-![Instructions](/Users/mitchellbrandon/Desktop/portfolio/dotchart/demo/src/imgs/demo.png)
+<img src="https://github.com/mitchell-brandon/dotChart/blob/c30f9eacfd65ef59f5f0b67ee3bcab1b728f064a/demo/src/imgs/demo.png">
 
