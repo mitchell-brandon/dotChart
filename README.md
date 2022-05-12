@@ -1,6 +1,6 @@
 <h1>Welcome to dotChart! </h1>
 dotChart is Licensed under the MIT license
-
+<br>
 dotChart is a reusable React component that generates a custom dot chart.
 A dot chart is a simple graph that expresses disparate data values. 
 The utility of dotChart is in the ability to customize multiple number 
@@ -9,9 +9,9 @@ value differences. I hope you find dotChart useful!
 
 <h2> Installation </h2>
 <p> In your terminal, npm install dotchart </p>
-<img src="https://github.com/mitchell-brandon/dotChart/blob/c30f9eacfd65ef59f5f0b67ee3bcab1b728f064a/demo/src/imgs/npm-install.png">
+<img height="20" src="https://github.com/mitchell-brandon/dotChart/blob/c30f9eacfd65ef59f5f0b67ee3bcab1b728f064a/demo/src/imgs/npm-install.png">
 <p> in your text editor, at the top of your file, import{Chart, ChartItem} from "dotChart" </P>
-<img src="https://github.com/mitchell-brandon/dotChart/blob/c30f9eacfd65ef59f5f0b67ee3bcab1b728f064a/demo/src/imgs/import.png">
+<img height="20"src="https://github.com/mitchell-brandon/dotChart/blob/c30f9eacfd65ef59f5f0b67ee3bcab1b728f064a/demo/src/imgs/import.png">
 
 [View Demo](https://link-url-here.org)
 
@@ -45,9 +45,9 @@ value differences. I hope you find dotChart useful!
 </ol>
 
 <h2> Demo </h2>
-<img src="https://github.com/mitchell-brandon/dotChart/blob/c30f9eacfd65ef59f5f0b67ee3bcab1b728f064a/demo/src/imgs/demo.png">
+<img width="600" height="400" src="https://github.com/mitchell-brandon/dotChart/blob/c30f9eacfd65ef59f5f0b67ee3bcab1b728f064a/demo/src/imgs/demo.png">
 
 <h2> Demo Result </h2>
-<img src="https://github.com/mitchell-brandon/dotChart/blob/master/demo/src/imgs/result.png">
+<img width="600" height="400" src="https://github.com/mitchell-brandon/dotChart/blob/master/demo/src/imgs/result.png">
 
 
