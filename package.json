@@ -1,7 +1,7 @@
 {
-  "name": "disparate-chart",
+  "name": "dotchart",
   "version": "1.0.0",
-  "description": "disparate-chart React component",
+  "description": "dotchart React component",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
