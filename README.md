@@ -16,11 +16,11 @@ value differences. I hope you find dotChart useful!
 
 
 <h2> Instructions </h2>
-<ol className="instructions-list list">
-    <li> Instantiate the Chart component with a range property <Chart range={}> </Chart> </li>
+<ol>
+    <li> Instantiate the Chart component with a range property</li>
     <li>
     Determine the range, or ranges of the Y axis. 
-    <ol className='lower-alpha'>
+    <ol>
         <li> range = {[lowest value, highest value, step value]</li>
         <li> 
         the lowest value is the range start, the highest 
@@ -31,9 +31,9 @@ value differences. I hope you find dotChart useful!
     </li>
     <li>
     {Instantiate <ChartItem/> children components}
-    <ol className='lower-alpha'>
+    <ol>
         <li> Specify the properties to label and position chart data </li>
-        <ol className="lowest-roman">
+        <ol>
         <li> tag={} - name of chart item</li>
         <li> value={} - numerical value of the item</li>
         <li> top={} - absolute position from top</li>
