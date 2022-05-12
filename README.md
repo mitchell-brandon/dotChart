@@ -15,13 +15,13 @@ value differences. I hope you find dotChart useful!
 [View Demo](https://link-url-here.org)
 
 
-<h2> Instructions </h2>
+<h2> Usage Instructions </h2>
 <ol>
     <li> Instantiate the Chart component with a range property</li>
     <li>
-    Determine the range, or ranges of the Y axis. 
+        Determine the range, or ranges of the Y axis. 
     <ol>
-        <li> range = {[lowest value, highest value, step value]</li>
+        <li> range = {[lowest value, highest value, step value]}</li>
         <li> 
         the lowest value is the range start, the highest 
         value is the range end, and the step value is the interval
@@ -30,7 +30,7 @@ value differences. I hope you find dotChart useful!
     </ol>
     </li>
     <li>
-    {Instantiate <ChartItem/> children components}
+        Instantiate ChartItem as children components
     <ol>
         <li> Specify the properties to label and position chart data </li>
         <ol>
@@ -43,9 +43,10 @@ value differences. I hope you find dotChart useful!
     </li>
 </ol>
 
+<h2> Demo </h2>
 <img src="https://github.com/mitchell-brandon/dotChart/blob/c30f9eacfd65ef59f5f0b67ee3bcab1b728f064a/demo/src/imgs/demo.png">
 
-<h2> Instructions Result </h2>
+<h2> Demo Result </h2>
 <img src="https://github.com/mitchell-brandon/dotChart/blob/master/demo/src/imgs/result.png">
 
 
