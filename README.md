@@ -9,7 +9,7 @@ value differences. I hope you find dotChart useful!
 
 <h2> Installation </h2>
 <p> In your terminal, npm install dotchart </p>
-<img height="25" src="https://github.com/mitchell-brandon/dotChart/blob/c30f9eacfd65ef59f5f0b67ee3bcab1b728f064a/demo/src/imgs/npm-install.png">
+<img height="22" src="https://github.com/mitchell-brandon/dotChart/blob/c30f9eacfd65ef59f5f0b67ee3bcab1b728f064a/demo/src/imgs/npm-install.png">
 <p> in your text editor, at the top of your file, import{Chart, ChartItem} from "dotChart" </P>
 <img height="20"src="https://github.com/mitchell-brandon/dotChart/blob/c30f9eacfd65ef59f5f0b67ee3bcab1b728f064a/demo/src/imgs/import.png">
 
