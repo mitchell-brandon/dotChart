@@ -5,13 +5,21 @@ A dot chart is a simple graph that expresses disparate data values.
 The utility of dotChart is in the ability to customize multiple number 
 ranges along the Y axis. This is extremely helpful when expressing gross 
 value differences. I hope you find dotChart useful!
-<img src="https://github.com/mitchell-brandon/dotChart/blob/master/demo/src/imgs/result.png">
 
 <h2> Installation </h2>
 <p> In your terminal, npm install dotchart </p>
+<img src="https://github.com/mitchell-brandon/dotChart/blob/c30f9eacfd65ef59f5f0b67ee3bcab1b728f064a/demo/src/imgs/npm-install.png">
 <p> in your text editor, at the top of your file, import{Chart, ChartItem} from "dotChart" </P>
+<img src="https://github.com/mitchell-brandon/dotChart/blob/c30f9eacfd65ef59f5f0b67ee3bcab1b728f064a/demo/src/imgs/import.png">
 
 [View Demo](https://link-url-here.org)
 
+
+<h2> Instructions </h2>
+
 <img src="https://github.com/mitchell-brandon/dotChart/blob/c30f9eacfd65ef59f5f0b67ee3bcab1b728f064a/demo/src/imgs/demo.png">
+
+<h2> Instructions Result </h2>
+<img src="https://github.com/mitchell-brandon/dotChart/blob/master/demo/src/imgs/result.png">
+
 
