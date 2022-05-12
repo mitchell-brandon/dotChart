@@ -1,4 +1,4 @@
-<h1>Welcome to dotChart! <h1>
+<h1>Welcome to dotChart! </h1>
 
 dotChart is a reusable React component that generates a custom dot chart.
 A dot chart is a simple graph that expresses disparate data values. 
