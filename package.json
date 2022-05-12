@@ -1,7 +1,7 @@
 {
   "name": "dotchart",
   "version": "1.0.0",
-  "description": "dotchart React component",
+  "description": "dotchart",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
