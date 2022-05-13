@@ -1,5 +1,5 @@
-import Chart from '../Chart/Chart.js';
-import ChartItem from '../ChartItem/ChartItem.js';
+import Chart from './Chart/Chart.js';
+import ChartItem from './ChartItem/ChartItem.js';
 
 
 export {
