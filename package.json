@@ -1,6 +1,6 @@
 {
   "name": "dotchart",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dotchart",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -28,10 +28,10 @@
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   },
-  "author": "",
-  "homepage": "",
+  "author": "Mitchell Brandon",
+  "homepage": "./",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/mitchell-brandon/dotChart",
   "keywords": [
     "react-component"
   ]
