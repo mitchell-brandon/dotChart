@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Chart from '../../../../src/components/Chart/Chart.js';
-import ChartItem from '../../../../src/components/ChartItem/ChartItem.js';
+import Chart from '../../../../src/Chart/Chart.js';
+import ChartItem from '../../../../src/ChartItem/ChartItem.js';
 import MainContent from '../MainContent/MainContent.js'
 
 function App() {
