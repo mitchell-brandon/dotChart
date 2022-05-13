@@ -45,7 +45,7 @@ value differences. I hope you find dotChart useful!
 </ol>
 
 <h2> Demo </h2>
-<img width="600" height="400" src="https://github.com/mitchell-brandon/dotChart/blob/c30f9eacfd65ef59f5f0b67ee3bcab1b728f064a/demo/src/imgs/demo.png">
+<img width="600" height="400" src="https://github.com/mitchell-brandon/dotChart/blob/9e7a104ffbd2ffd4a9e4e44f83b208e6b9fbcae1/demo/src/imgs/demo.png">
 
 <h2> Demo Result </h2>
 <img width="600" height="400" src="https://github.com/mitchell-brandon/dotChart/blob/master/demo/src/imgs/result.png">

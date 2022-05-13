@@ -4,5 +4,5 @@ import ChartItem from './ChartItem/ChartItem.js';
 
 export {
   Chart,
-  ChartItem
+  ChartItem,
 }
