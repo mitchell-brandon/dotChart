@@ -1,6 +1,6 @@
 {
   "name": "dotchart",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Graphing diparate data",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -21,7 +21,7 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "react": "16.x"
+  
   },
   "devDependencies": {
     "nwb": "0.25.x",
