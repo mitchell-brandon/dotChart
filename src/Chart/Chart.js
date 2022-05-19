@@ -23,12 +23,12 @@ function Chart(props){
             <div className='graph-wrapper'>
                 <ul className='data-list'>
                     {
-                        tempGraphValues.map( (value) => (
+                        tempGraphValues.map( (value, i) => (
                             value === 'data-division' 
                             ? 
-                            value = <div className='horizontal-bar'> </div>
+                            <div key={i} className='horizontal-bar'> </div>
                             :
-                            <li key={value} className='graph-y-labels'>{value.toLocaleString()}</li>
+                            <li key={i} className='graph-y-labels'>{value.toLocaleString()}</li>
                         ))
                     }
                 </ul>
