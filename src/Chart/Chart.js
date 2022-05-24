@@ -14,10 +14,11 @@ function yValues(values){
 
     tempGraphValues.sort(function(a, b){return b - a});
     return tempGraphValues
-  }
+}
 
 function Chart(props){
     const tempGraphValues = yValues(props.range)
+    console.log(tempGraphValues, props)
     return(
         <div className="graph-container">
             <div className='graph-wrapper'>
