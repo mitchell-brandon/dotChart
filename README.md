@@ -51,3 +51,6 @@ value differences. I hope you find dotChart useful!
 <img width="600" height="400" src="https://github.com/mitchell-brandon/dotChart/blob/master/demo/src/imgs/result.png">
 
 
+<h2> Some Known Issues</h2>
+<p> If the ranges are not rendering, try removing react strict mode</p>
+

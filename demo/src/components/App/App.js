@@ -15,6 +15,8 @@ function App() {
         <ChartItem description={"Mercury"} value={"167c°"} top={"50%"} left={"30%"}/>
         <ChartItem description={"Neptune"} value={"-225c°"} top={"93%"} left={"50%"}/>
       </Chart>
+      <h2> Known Issues</h2>
+      <p> If the ranges are not rendering, try removing react strict mode</p>
     </div>
   )
 }
